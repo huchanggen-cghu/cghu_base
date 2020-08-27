@@ -1,0 +1,16 @@
+Spring Framework各个版本下载：
+https://repo.spring.io/release/org/springframework/spring/
+
+spring官网上下载历史版本的spring插件，springsource-tool-suite
+http://www.mokezhan.com/70834.html
+
+kepler
+sts-3.5.1：http://download.springsource.com/release/TOOLS/update/3.5.1.RELEASE/e4.3/springsource-tool-suite-3.5.1.RELEASE-e4.3.2-updatesite.zip
+sts-3.5.0：http://download.springsource.com/release/TOOLS/update/3.5.0.RELEASE/e4.3/springsource-tool-suite-3.5.0.RELEASE-e4.3.2-updatesite.zip
+sts-3.4.0：http://download.springsource.com/release/TOOLS/update/3.4.0.RELEASE/e4.3/springsource-tool-suite-3.4.0.RELEASE-e4.3.1-updatesite.zip
+sts-3.3.0：http://download.springsource.com/release/TOOLS/update/3.3.0.RELEASE/e4.3/springsource-tool-suite-3.3.0.RELEASE-e4.3-updatesite.zip
+
+
+
+
+
